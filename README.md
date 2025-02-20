@@ -100,8 +100,7 @@ Both notebooks follow a similar structure:
     *   Predict the sentiment on the test set.
     *   Evaluate the model's performance using metrics like accuracy, precision, recall, and F1-score.  You can use `confusion_matrix` and other metrics from `sklearn.metrics`.
 
-## Model Evaluation (To be added in the notebooks)
-
+## Model Evaluation 
 To properly evaluate the models, add the following code to each notebook after the model training step:
 
 ```
