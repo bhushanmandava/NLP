@@ -126,17 +126,6 @@ This will provide insight into how well the models are performing.
 
 The results of the sentiment analysis will be printed in the output of the Jupyter Notebooks, including the confusion matrix and accuracy score.
 
-## Further Improvements
-
-*   **Hyperparameter Tuning:** Optimize the hyperparameters of the Naive Bayes and Random Forest models using techniques like GridSearchCV or RandomizedSearchCV.
-*   **Feature Engineering:** Explore other feature extraction techniques, such as TF-IDF (Term Frequency-Inverse Document Frequency), to improve model performance.
-*   **More Data:**  Increasing the size of the training dataset can often lead to better model accuracy.
-*   **Advanced Preprocessing:** Experiment with more advanced text preprocessing techniques, such as lemmatization, or using different stop word lists.
-*   **Different Models:** Try other classification algorithms, such as Logistic Regression or Support Vector Machines (SVM).
-```
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/14427662/4af98376-1448-448b-a21d-50fe31b84a5c/NLP_NAVIE_BAYES.ipynb
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/14427662/4c215402-1d0d-495c-9ec2-caf0365e9e90/NLP_Rand_forest.ipynb
 
 ---
 Answer from Perplexity: pplx.ai/share
