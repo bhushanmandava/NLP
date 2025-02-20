@@ -126,6 +126,3 @@ This will provide insight into how well the models are performing.
 
 The results of the sentiment analysis will be printed in the output of the Jupyter Notebooks, including the confusion matrix and accuracy score.
 
-
----
-Answer from Perplexity: pplx.ai/share
